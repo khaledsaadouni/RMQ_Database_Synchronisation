@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rabbitmq-jms-1.11.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Bureau/GL3/Systémes Répartis/TP1-20230207T203416Z-001/TP1/rabbitmq-jms-1.11.1.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Bureau/GL3/Systémes Répartis/TP1-20230207T203416Z-001/TP1/slf4j-nop.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Bureau/GL3/Systémes Répartis/TP1-20230207T203416Z-001/TP1/slf4j-api-1.8.0-beta2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
